@@ -11,6 +11,59 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## June 25th, 2021
+This update was worked on by Alikeshadow, TheeDeer and specialforcest. 
+
+### Added
+- Scanner Confiscation.
+- SRU Spawn Bulkhead.
+- Bulkheads to TSC towers.
+- Clearance signs to stairs.
+- Library room sign.
+- Two fire doors (MD & FP Cafe).
+- TV to TSC.
+- RadioMute button to Personnel Manager.
+- EC Hats.
+- L-1 Juniors in SD to open the Zone C checkpoint doors.
+- Teleport to move between the surface and access shafts easily.
+- [T] and [W] at the start of the team and whisper bubbles respectively.
+- Picture in ScD spawn.
+- Extra wall at FP breach holes to stop hostiles/combatives looking through the wall at each other.
+- TVs to all the DEA offices.
+
+### Changed
+- SCP 216.
+- SCP 472.
+- TSC Glass to new variant.
+- Zone-D to Zone-C checkpoint.
+- Zone-C to Zone-A permissions (added SD).
+- Regen terminal command (Added Level:4).
+- Scanner deny sound (quieter).
+- EC Spawns access (added MD+DEA).
+- Site Security terminal permissions (added DEA).
+- Library books now have pages to accommodate larger text which is easier to read.
+- MK11 and Scar-H's animations to M4 instead of P90.
+- Cubicles in DEA and CES spawn to be less... "sus".
+
+### Fixed
+- Camera bug (shift-lock, however not working all the time).
+- Zone-A gate clipping.
+- SRU private server permissions.
+- SD/SRU private server protocol permissions (added nightcrawler, defense, and sweep).
+- Terrain clipping through in Access Shafts.
+- Fixed when CZs are in lockdown, no one being able to open the CZBS.
+- Fire door by DEA being misaligned.
+- Imperfect corner in 266 at the window.
+- Clipping in SCP 266's chamber.
+- Terminal in 1162.
+- Alignment of wall outside FP spawn.
+- MTF private server permissions.
+- Floaty keycard reader at E&TS elevator.
+- MTF Task Force and Hostile private servers.
+
+### Removed
+- One firedoor (Near SD spawn).
+
 ## June 8th, 2021
 This update was worked on by Alikeshadow and TheeDeer
 
