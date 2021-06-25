@@ -59,6 +59,7 @@ This update was worked on by Alikeshadow, TheeDeer and specialforcest.
 - MTF private server permissions.
 - Floaty keycard reader at E&TS elevator.
 - MTF Task Force and Hostile private servers.
+- Fixed being able to receive mask in MD whilst dead.
 
 ### Removed
 - One firedoor (Near SD spawn).
