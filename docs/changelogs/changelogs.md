@@ -33,7 +33,6 @@ This update was worked on by Alikeshadow, TheeDeer and specialforcest.
 
 ### Changed
 - SCP 216.
-- SCP 472.
 - TSC Glass to new variant.
 - Zone-D to Zone-C checkpoint.
 - Zone-C to Zone-A permissions (added SD).
