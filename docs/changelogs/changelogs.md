@@ -30,6 +30,7 @@ This update was worked on by Alikeshadow, TheeDeer and specialforcest.
 - Picture in ScD spawn.
 - Extra wall at FP breach holes to stop hostiles/combatives looking through the wall at each other.
 - TVs to all the DEA offices.
+- Certain MTF ranks get spectate tool on private servers.
 
 ### Changed
 - SCP 216.
@@ -60,6 +61,7 @@ This update was worked on by Alikeshadow, TheeDeer and specialforcest.
 - Floaty keycard reader at E&TS elevator.
 - MTF Task Force and Hostile private servers.
 - Fixed being able to receive mask in MD whilst dead.
+- TV display in AD spawn.
 
 ### Removed
 - One firedoor (Near SD spawn).
