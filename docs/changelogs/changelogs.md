@@ -11,7 +11,7 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
-## June 25th, 2021
+## June 26th, 2021
 This update was worked on by Alikeshadow, TheeDeer and specialforcest. 
 
 ### Added
