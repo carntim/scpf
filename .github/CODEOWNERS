@@ -1,5 +1,5 @@
 # Bubble up any further unprotected files to Quinn.
-* @quinnicious
+* @OriginalRiser
 
 # Allow O5 Council to make modifications to the /docs/ directory, and any of its nested children.
 /docs/ @SCPF-AdministratorMr-Foundation/o5-council
@@ -14,6 +14,6 @@
 /library/ @SCPF-AdministratorMr-Foundation/senior-developers
 
 # Protect delicate files by having Quinn review modifications first.
-/docs/_sass/ @quinnicious
-/docs/CNAME @quinnicious
-/docs/_config.yml @quinnicious
+/docs/_sass/ @OriginalRiser
+/docs/CNAME @OriginalRiser
+/docs/_config.yml @OriginalRiser
