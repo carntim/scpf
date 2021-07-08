@@ -14,9 +14,14 @@ This web page is managed and updated by the Manufacturing Department.
 ## July 9th, 2021
 This update was worked on by Alikeshadow and TheeDeer.
 
+### Added
+- Tea to the cup tray, Q+Click to give tea rather than coffee.
+
 ### Changed
 - Teleport to move between the surface and access shafts locked to hostiles only.
 - SCP-014's music (since the old one got removed for copyright reasons).
+- Medkit self-heal to Q+click.
+- Moved TSC TV.
 
 ### Fixed
 -  Gap in window in tower TSTA-1 side.
@@ -31,6 +36,9 @@ This update was worked on by Alikeshadow and TheeDeer.
 -  SCP 714.
 -  Global lockdown not affecting some doors in the TSC.b
 -  SCP-1208 so you can't lag out the server anymore.
+-  Radio mute not working on combative radio.
+-  Issue with the scanners not clearing after 30 seconds.
+-  CZBS gate, can now be toggled using `doors toggle CZBS` in terminal.
 
 ### Removed
 - Some alarms in the TSTAs.
