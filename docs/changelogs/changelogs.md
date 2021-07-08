@@ -11,6 +11,30 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## July 9th, 2021
+This update was worked on by Alikeshadow and TheeDeer.
+
+### Changed
+- Teleport to move between the surface and access shafts locked to hostiles only.
+- SCP-014's music (since the old one got removed for copyright reasons).
+
+### Fixed
+-  Gap in window in tower TSTA-1 side.
+-  Gap in roof in Vehicle Depot.
+-  Checked over and fixed pretty much every keycard reader on site to see if they were floaty.
+-  Wall and floor clipping in SCP-173's chamber.
+-  Hostile card spawning and made the card brighter so it's slightly easier to see.
+-  Gaps in all shutters in TSC.
+-  Terrain around skylight.
+-  DEA logo having 6 fingers.
+-  Texture clipping on A-1 helmets.
+-  SCP 714.
+-  Global lockdown not affecting some doors in the TSC.b
+-  SCP-1208 so you can't lag out the server anymore.
+
+### Removed
+- Some alarms in the TSTAs.
+
 ## June 26th, 2021
 This update was worked on by Alikeshadow, TheeDeer and specialforcest. 
 
