@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Changelogs
+title: Area-14 Changelogs
 nav_order: 13
 ---
 
@@ -10,6 +10,44 @@ This web page is managed and updated by the Manufacturing Department.
 
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
+
+## July 10th, 2021
+This update was worked on by Alikeshadow and TheeDeer.
+
+### Added
+- Tea to the cup tray, Q+Click to give tea rather than coffee.
+- Bubble chat colours for team and whisper.
+- THI, CI and MD have access to administrative and management commands, and the spectate tool on their respective private servers.
+- Added a hostile counter to the site information screens.
+
+### Changed
+- Teleport to move between the surface and access shafts locked to hostiles only.
+- SCP-014's music (since the old one got removed for copyright reasons).
+- Medkit self-heal to Q+click.
+- Moved TSC TV.
+- Hack command for hostiles to open the Breach Shelter, and UnHack for combatives to reverse the effects.
+- Reload animations.
+
+### Fixed
+-  Gap in window in tower TSTA-1 side.
+-  Gap in roof in Vehicle Depot.
+-  Checked over and fixed pretty much every keycard reader on site to see if they were floaty.
+-  Wall and floor clipping in SCP-173's chamber.
+-  Hostile card spawning and made the card brighter so it's slightly easier to see.
+-  Gaps in all shutters in TSC.
+-  Terrain around skylight.
+-  DEA logo having 6 fingers.
+-  Texture clipping on A-1 helmets.
+-  SCP 714.
+-  Global lockdown not affecting some doors in the TSC.b
+-  SCP-1208 so you can't lag out the server anymore.
+-  Radio mute not working on combative radio.
+-  Issue with the scanners not clearing after 30 seconds.
+-  CZBS gate, can now be toggled using `doors toggle CZBS` in terminal.
+-  Anti-Exploit.
+
+### Removed
+- Some alarms in the TSTAs.
 
 ## June 26th, 2021
 This update was worked on by Alikeshadow, TheeDeer and specialforcest. 
