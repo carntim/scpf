@@ -17,7 +17,7 @@ This update was worked on by Alikeshadow and TheeDeer.
 ### Added
 - Tea to the cup tray, Q+Click to give tea rather than coffee.
 - Bubble chat colours for team and whisper.
-- THI, CI and MD have access to team, eventgive, time, bring, teleport, to, track, announce and kick commands, and the spectate tool on their respective private servers.
+- THI, CI and MD have access to administrative and management commands, and the spectate tool on their respective private servers.
 
 ### Changed
 - Teleport to move between the surface and access shafts locked to hostiles only.
