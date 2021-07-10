@@ -39,7 +39,7 @@ This update was worked on by Alikeshadow and TheeDeer.
 -  DEA logo having 6 fingers.
 -  Texture clipping on A-1 helmets.
 -  SCP 714.
--  Global lockdown not affecting some doors in the TSC.b
+-  Global lockdown not affecting some doors in the TSC.
 -  SCP-1208 so you can't lag out the server anymore.
 -  Radio mute not working on combative radio.
 -  Issue with the scanners not clearing after 30 seconds.
