@@ -11,18 +11,21 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
-## July 9th, 2021
+## July 10th, 2021
 This update was worked on by Alikeshadow and TheeDeer.
 
 ### Added
 - Tea to the cup tray, Q+Click to give tea rather than coffee.
 - Bubble chat colours for team and whisper.
+- THI, CI and MD have access to team, eventgive, time, bring, teleport, to, track, announce and kick commands, and the spectate tool on their respective private servers.
 
 ### Changed
 - Teleport to move between the surface and access shafts locked to hostiles only.
 - SCP-014's music (since the old one got removed for copyright reasons).
 - Medkit self-heal to Q+click.
 - Moved TSC TV.
+- Hack command for hostiles to open the Breach Shelter, and UnHack for combatives to reverse the effects.
+- Reload animations.
 
 ### Fixed
 -  Gap in window in tower TSTA-1 side.
@@ -40,6 +43,7 @@ This update was worked on by Alikeshadow and TheeDeer.
 -  Radio mute not working on combative radio.
 -  Issue with the scanners not clearing after 30 seconds.
 -  CZBS gate, can now be toggled using `doors toggle CZBS` in terminal.
+-  Anti-Exploit.
 
 ### Removed
 - Some alarms in the TSTAs.
