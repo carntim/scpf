@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 {: .caution }
-Ensure you have read this article in full before submitting a Hearing Request via the [Request Form](https://forms.gle/r4F9j3aFwswYAZ4s5)
+Ensure you have read this article in full before submitting a Hearing Request via the [Request Form](https://forms.gle/r4F9j3aFwswYAZ4s5) and joining the [Discord server](https://discord.gg/8Kjxf7WQ4q)
 
 # Disciplinary Hearings
 A Disciplinary Hearing is a process in which a community member may attend a hearing in relation to an action that has been taken towards them. In such sessions, it provides the chance for the member in question to state their case to a set of jurors as to why said action should be reversed or modified. The process is intended to provide fair treatment and independent review.
