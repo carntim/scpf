@@ -13,7 +13,7 @@ Ensure you have read this article in full before submitting a Hearing Request vi
 A Disciplinary Hearing is a process in which a community member may attend a hearing in relation to an action that has been taken towards them. In such sessions, it provides the chance for the member in question to state their case to a set of jurors as to why said action should be reversed or modified. The process is intended to provide fair treatment and independent review.
 
 ## Proceedings of Hearings
-All participating parties will be invited/added to a Discord channel in which the session will commence. During the session, a discussion will be held explaining why the issued action was taken. The requester will have the opportunity to debunk the issued action and/or apologise for their behaviour.
+All participating parties will be invited/added to a Discord channel in which the session will commence. During the session, a discussion will be held explaining why the issued action was taken. The requester will have the opportunity to debunk the issued action.
 
 When the above stated discussion comes to a conclusion, the content of the channel will be reviewed by the relevant parties (usually the Ethics Committee High Command and/or the O5 Council, although can be other parties if necessary) and a conclusion will be reached. 
 The verdict will be conveyed to the requester within 48 hours with reasoning as to why this conclusion was reached.
