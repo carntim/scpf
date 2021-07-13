@@ -3,6 +3,7 @@ layout: default
 title: Appeals
 parent: Ruling
 nav_order: 6
+has_children: true
 ---
 
 # Appeals
