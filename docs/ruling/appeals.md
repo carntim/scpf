@@ -16,12 +16,14 @@ In order to create an appeal, the below template needs to be filled in first. Th
 
 ```
 Roblox Username:
-Discord Username (e.g. Wumpus#1234):
+Discord User ID:
 Intent: <Blacklist / Application Centre / Site-17 / Site-19 / Area-14 / Discord>
 Why were you punished?:
 Why do you wish to be unpunished?:
 Why should we trust you not to commit a similar offence in the future?:
 ```
+{: .hint }
+See the article [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) to learn how to find your Discord User ID.
 
 ## Process
 ### Submission
