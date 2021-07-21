@@ -11,6 +11,25 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## July 21st, 2021
+This update was worked on by Alikeshadow and TheeDeer.
+
+### Added
+- E to interact to most seats.
+- E to interact mugs.
+- Yukova's CES treasure hunt photo to MD.
+- Hostile access to Knife Cut on their respective private servers.
+- Certain MD ranks to the Blackout protocol on the MD private server.
+- SD LT access to fire doors in Zone-A and outside DEA spawn (towards E&TS).
+- Hostile keycard permission to HCZ.
+- Keycard permission so Seniors (SD) can open doors in the access shafts (Zone-M).
+
+### Fixed
+-  Autoclose of BS doors after being hacked.
+-  Hacked keycard readers not turning purple after an attempted card swipe.
+-  Gap between E&TS hallway and the Reactor Hall.
+-  Cross test between 1200 "Moon's shadow" and 1208.
+
 ## July 10th, 2021
 This update was worked on by Alikeshadow and TheeDeer.
 
