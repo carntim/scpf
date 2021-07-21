@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Application Center Changelogs
-nav_order: 13
+parent: Changelogs
+nav_order: 14
 ---
 
 # Changelogs
