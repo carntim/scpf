@@ -23,6 +23,7 @@ This update was worked on by Alikeshadow and TheeDeer.
 - SD LT access to fire doors in Zone-A and outside DEA spawn (towards E&TS).
 - Hostile keycard permission to HCZ.
 - Keycard permission so Seniors (SD) can open doors in the access shafts (Zone-M).
+- MD permissions to SCPs that that rank could test on.
 
 ### Fixed
 -  Autoclose of BS doors after being hacked.
