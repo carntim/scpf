@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Area-14 Changelogs
+parent: Changelogs
 nav_order: 13
 ---
 
