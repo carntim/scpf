@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Area-14 Changelogs
+parent: Changelogs
 nav_order: 13
 ---
 
@@ -21,8 +22,9 @@ This update was worked on by Alikeshadow and TheeDeer.
 - Hostile access to Knife Cut on their respective private servers.
 - Certain MD ranks to the Blackout protocol on the MD private server.
 - SD LT access to fire doors in Zone-A and outside DEA spawn (towards E&TS).
-- Hostile keycard permission to HCZ.
+- Hostile keycard (CI, THI during a raid) permission to HCZ.
 - Keycard permission so Seniors (SD) can open doors in the access shafts (Zone-M).
+- MD permissions to SCPs that that rank could test on.
 
 ### Fixed
 -  Autoclose of BS doors after being hacked.
