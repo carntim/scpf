@@ -275,7 +275,7 @@ Members are hand-picked and undergo an extremely thorough background check befor
 - Junior Developer
 - Developer
 - Senior Developer (Level 3)
-- Technical Site Director (Level 4)
+- Technical Site Director (Site Director)
 
 ### Description
 The Manufacturing Department is responsible for the development of the games, services, and systems we provide. They are masterminds when it comes down to development, spanning across several fields within the industry. Some examples include building, modelling, and scripting.
