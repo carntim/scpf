@@ -12,6 +12,20 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+
+## August 8th, 2021
+This update was worked on by Alikeshadow.
+
+### Changed
+- Berets given to Wolves and gas masks to MSU.
+- Disabled shotguns during raids.
+
+### Fixed
+- Gaps between window and frame in the right tower TSTA.
+- SD Seniors not being able to operate the Red Elevator in TSC.
+- CDs being able to close cell doors.
+- SCP-999.
+
 ## July 21st, 2021
 This update was worked on by Alikeshadow and TheeDeer.
 
