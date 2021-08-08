@@ -10,10 +10,10 @@ All changes to the Application Center will be documented here.
 This web page is managed and updated by the Manufacturing Department.
 
 ## August 7th, 2021
-This update was worked on by Alikeshadow.
+This update was worked on by Alikeshadow and Quinnicious.
 
-### Added
-- Debug messages (F9) to try and solve the crashing issue when reading app status.
+### Fixed
+- Application center crashing when reading the status of apps.
 
 ### Changed
 - Music toggle from pressing the key "M" to a GUI button.
