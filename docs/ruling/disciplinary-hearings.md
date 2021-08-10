@@ -29,7 +29,7 @@ Though uncommon, there are cases where a hearing cannot be granted. The followin
 In addition to this, the following actions are **not** eligible for a Hearing:
 
 - Foundation-wide blacklists are not eligible as they are issued in extraordinary circumstances. Only the O5 Council has the right to accept a blacklist appeal via **support@scpf.team**.
-- Roblox and Discord bans are eligible, **however**, an attempt of an appeal must first be made via **support@scpf.team**.
+- Roblox and Discord bans are not eligible an appeal for such actions must be made via e-mailing **support@scpf.team**.
 - Temporary actions (e.g. limited Discord mutes, limited in-game bans) are not eligible as they will have very likely expired before the Disciplinary Hearing takes place. These too should be sent to the support address.
 
 ## Attendance of Hearings
